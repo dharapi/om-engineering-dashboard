@@ -1,0 +1,1593 @@
+{
+  "Civil Engineering": {
+    "subjects": [
+      {
+        "name": "Applied Phisics",
+        "code": "DI01000121",
+        "date": "08/07/2026"
+      },
+      {
+        "name": "Mathematics -1",
+        "code": "DI01000021",
+        "date": "14/08/2026"
+      },
+      {
+        "name": "CED",
+        "code": "DI01006011",
+        "date": "21/08/2026"
+      },
+      {
+        "name": "CM",
+        "code": "DI01006021",
+        "date": "09/11/2021"
+      },
+      {
+        "name": "ENGINEERING GRAPHICS",
+        "code": "DI01000111",
+        "date": "19/09/2026"
+      }
+    ],
+    "students": [
+      {
+        "sr": 1,
+        "name": "BAGDA RAJVEER RAMESHBHAI",
+        "marks": {
+          "Applied Phisics": 16,
+          "Mathematics -1": 16,
+          "CED": 16,
+          "CM": 18,
+          "ENGINEERING GRAPHICS": "AB"
+        }
+      },
+      {
+        "sr": 2,
+        "name": "BAKARANIYA PRANAV DILIPBHAI",
+        "marks": {
+          "Applied Phisics": 12,
+          "Mathematics -1": 12,
+          "CED": 12,
+          "CM": "AB",
+          "ENGINEERING GRAPHICS": 16.0
+        }
+      },
+      {
+        "sr": 3,
+        "name": "BHARADIYA NEEL BHARATBHAI",
+        "marks": {
+          "Applied Phisics": 10,
+          "Mathematics -1": 10,
+          "CED": 10,
+          "CM": 10.0,
+          "ENGINEERING GRAPHICS": 18.0
+        }
+      },
+      {
+        "sr": 4,
+        "name": "BHUVA DIVYESH VITHTHALBHAI",
+        "marks": {
+          "Applied Phisics": "AB",
+          "Mathematics -1": "AB",
+          "CED": "AB",
+          "CM": "AB",
+          "ENGINEERING GRAPHICS": "AB"
+        }
+      },
+      {
+        "sr": 5,
+        "name": "CHANDERA MAHESHKUMAR BHIMSHEEBHAI",
+        "marks": {
+          "Applied Phisics": "AB",
+          "Mathematics -1": "AB",
+          "CED": "AB",
+          "CM": "AB",
+          "ENGINEERING GRAPHICS": "AB"
+        }
+      },
+      {
+        "sr": 6,
+        "name": "CHANDRVADIYA MAHESH BHARATBHAI",
+        "marks": {
+          "Applied Phisics": 16,
+          "Mathematics -1": 16,
+          "CED": 16,
+          "CM": 17.0,
+          "ENGINEERING GRAPHICS": 16.0
+        }
+      },
+      {
+        "sr": 7,
+        "name": "CHAPANERA JAYRAJ MANISHKUMAR",
+        "marks": {
+          "Applied Phisics": 7,
+          "Mathematics -1": 7,
+          "CED": 7,
+          "CM": "AB",
+          "ENGINEERING GRAPHICS": 14.0
+        }
+      },
+      {
+        "sr": 8,
+        "name": "CHAUHAN JATAN DINESHBHAI",
+        "marks": {
+          "Applied Phisics": 14,
+          "Mathematics -1": 14,
+          "CED": 14,
+          "CM": 8.0,
+          "ENGINEERING GRAPHICS": 15.0
+        }
+      },
+      {
+        "sr": 9,
+        "name": "CHUDASAMA PRINS JAGDISHBHAI",
+        "marks": {
+          "Applied Phisics": 16,
+          "Mathematics -1": 16,
+          "CED": 16,
+          "CM": 15.0,
+          "ENGINEERING GRAPHICS": 15.0
+        }
+      },
+      {
+        "sr": 10,
+        "name": "DHAMMAR CHIRAG KANTIBHAI",
+        "marks": {
+          "Applied Phisics": 13,
+          "Mathematics -1": 13,
+          "CED": 13,
+          "CM": "AB",
+          "ENGINEERING GRAPHICS": "AB"
+        }
+      },
+      {
+        "sr": 11,
+        "name": "KACHA NAITIK HASMUKHBHAI",
+        "marks": {
+          "Applied Phisics": 12,
+          "Mathematics -1": 12,
+          "CED": 12,
+          "CM": 9.0,
+          "ENGINEERING GRAPHICS": 15.0
+        }
+      },
+      {
+        "sr": 12,
+        "name": "MAKWANA DEVANG JIGNESHBHAI",
+        "marks": {
+          "Applied Phisics": 16,
+          "Mathematics -1": 16,
+          "CED": 16,
+          "CM": 17.0,
+          "ENGINEERING GRAPHICS": 17.0
+        }
+      },
+      {
+        "sr": 13,
+        "name": "MAKWANA KAUSHIK DINESHBHAI",
+        "marks": {
+          "Applied Phisics": 0,
+          "Mathematics -1": 0,
+          "CED": 0,
+          "CM": 9.0,
+          "ENGINEERING GRAPHICS": 15.0
+        }
+      },
+      {
+        "sr": 14,
+        "name": "SHAHPARA VIVAN PRASHANTBHAI",
+        "marks": {
+          "Applied Phisics": 12,
+          "Mathematics -1": 12,
+          "CED": 12,
+          "CM": 9.0,
+          "ENGINEERING GRAPHICS": 20.0
+        }
+      },
+      {
+        "sr": 15,
+        "name": "TARAVIYA BHARGAV MANSUKHBHAI",
+        "marks": {
+          "Applied Phisics": 0,
+          "Mathematics -1": 0,
+          "CED": 0,
+          "CM": "AB",
+          "ENGINEERING GRAPHICS": "AB"
+        }
+      },
+      {
+        "sr": 16,
+        "name": "VAGHELA DHRUV ISHWARBHAI",
+        "marks": {
+          "Applied Phisics": 13,
+          "Mathematics -1": 13,
+          "CED": 13,
+          "CM": 5.0,
+          "ENGINEERING GRAPHICS": 13.0
+        }
+      },
+      {
+        "sr": 17,
+        "name": "VAGHERA VIRAL KISHORBHAI",
+        "marks": {
+          "Applied Phisics": 0,
+          "Mathematics -1": 0,
+          "CED": 0,
+          "CM": 2.0,
+          "ENGINEERING GRAPHICS": 7.0
+        }
+      },
+      {
+        "sr": 18,
+        "name": "VARSUR MAYANK PARESHBHAI",
+        "marks": {
+          "Applied Phisics": 19,
+          "Mathematics -1": 19,
+          "CED": 19,
+          "CM": 20.0,
+          "ENGINEERING GRAPHICS": 18.0
+        }
+      },
+      {
+        "sr": 19,
+        "name": "VIRANI YASH SANJAYBHAI",
+        "marks": {
+          "Applied Phisics": 19,
+          "Mathematics -1": 19,
+          "CED": 19,
+          "CM": "AB",
+          "ENGINEERING GRAPHICS": "AB"
+        }
+      }
+    ]
+  },
+  "Electrical Engineering": {
+    "subjects": [
+      {
+        "name": "Engineering Chemistry",
+        "code": "DI01000071",
+        "date": "08/07/2026"
+      },
+      {
+        "name": "CSE",
+        "code": "DI01000031",
+        "date": "14/08/2026"
+      },
+      {
+        "name": "Mathematics -1",
+        "code": "DI01000021",
+        "date": "21/08/2026"
+      },
+      {
+        "name": "ED&C",
+        "code": "Subject code",
+        "date": "14/09/2026"
+      }
+    ],
+    "students": [
+      {
+        "sr": 1,
+        "name": "BABARIA PRIYANSHU VINODBHAI",
+        "marks": {
+          "Engineering Chemistry": 12.0,
+          "CSE": null,
+          "Mathematics -1": 6.0,
+          "ED&C": 4.0
+        }
+      },
+      {
+        "sr": 2,
+        "name": "BAGDA KRUNAL MANSUKHBHAI",
+        "marks": {
+          "Engineering Chemistry": 16.0,
+          "CSE": 18.0,
+          "Mathematics -1": 19.0,
+          "ED&C": 8.0
+        }
+      },
+      {
+        "sr": 3,
+        "name": "BARAD YASHKUMAR MANSINGBHAI",
+        "marks": {
+          "Engineering Chemistry": "AB",
+          "CSE": null,
+          "Mathematics -1": "AB",
+          "ED&C": "AB"
+        }
+      },
+      {
+        "sr": 4,
+        "name": "BATHVAR BHAUTIK PARSOTAM",
+        "marks": {
+          "Engineering Chemistry": 16.0,
+          "CSE": 16.0,
+          "Mathematics -1": 9.0,
+          "ED&C": 10.0
+        }
+      },
+      {
+        "sr": 5,
+        "name": "BUTANI HET DINESHBHAI",
+        "marks": {
+          "Engineering Chemistry": 17.0,
+          "CSE": 10.0,
+          "Mathematics -1": "AB",
+          "ED&C": 17.0
+        }
+      },
+      {
+        "sr": 6,
+        "name": "CHUDASAMA JAY CHIRAGBHAI",
+        "marks": {
+          "Engineering Chemistry": 4.0,
+          "CSE": null,
+          "Mathematics -1": 6.0,
+          "ED&C": 10.0
+        }
+      },
+      {
+        "sr": 7,
+        "name": "DEVDHARIYA PRINCE MUKESHBHAI",
+        "marks": {
+          "Engineering Chemistry": 12.0,
+          "CSE": "AB",
+          "Mathematics -1": 18.0,
+          "ED&C": 8.0
+        }
+      },
+      {
+        "sr": 8,
+        "name": "DUDHAGARA PRITKUMAR DINESHBHAI",
+        "marks": {
+          "Engineering Chemistry": 13.0,
+          "CSE": 13.0,
+          "Mathematics -1": 6.0,
+          "ED&C": 7.0
+        }
+      },
+      {
+        "sr": 9,
+        "name": "GHADA VARIS SATARBHAI",
+        "marks": {
+          "Engineering Chemistry": "AB",
+          "CSE": null,
+          "Mathematics -1": "AB",
+          "ED&C": "AB"
+        }
+      },
+      {
+        "sr": 10,
+        "name": "GODESHWAR YASH JITENDRABHAI",
+        "marks": {
+          "Engineering Chemistry": 17.0,
+          "CSE": 10.0,
+          "Mathematics -1": "AB",
+          "ED&C": "AB"
+        }
+      },
+      {
+        "sr": 11,
+        "name": "GODHAM ASHISH ALA",
+        "marks": {
+          "Engineering Chemistry": 14.0,
+          "CSE": 1.0,
+          "Mathematics -1": 8.0,
+          "ED&C": 6.0
+        }
+      },
+      {
+        "sr": 12,
+        "name": "GONDALIYA BANSI PRAKASHBHAI",
+        "marks": {
+          "Engineering Chemistry": 18.0,
+          "CSE": 14.0,
+          "Mathematics -1": 18.0,
+          "ED&C": 16.0
+        }
+      },
+      {
+        "sr": 13,
+        "name": "HADIYA VATSAL YOGESHBHAI",
+        "marks": {
+          "Engineering Chemistry": 17.0,
+          "CSE": 9.0,
+          "Mathematics -1": 11.0,
+          "ED&C": 16.0
+        }
+      },
+      {
+        "sr": 14,
+        "name": "JINJAVADIYA JAYVIR KANJIBHAI",
+        "marks": {
+          "Engineering Chemistry": 9.0,
+          "CSE": 3.0,
+          "Mathematics -1": 4.0,
+          "ED&C": 9.0
+        }
+      },
+      {
+        "sr": 15,
+        "name": "KABA VIRAT MUKESHBHAI",
+        "marks": {
+          "Engineering Chemistry": 4.0,
+          "CSE": null,
+          "Mathematics -1": 2.0,
+          "ED&C": 3.0
+        }
+      },
+      {
+        "sr": 16,
+        "name": "KADAR AEJAJBHAI BELIM",
+        "marks": {
+          "Engineering Chemistry": 1.0,
+          "CSE": null,
+          "Mathematics -1": "AB",
+          "ED&C": 3.0
+        }
+      },
+      {
+        "sr": 17,
+        "name": "KAPADIYA PRINCEKUMAR DILIP",
+        "marks": {
+          "Engineering Chemistry": 7.0,
+          "CSE": 12.0,
+          "Mathematics -1": 10.0,
+          "ED&C": 9.0
+        }
+      },
+      {
+        "sr": 18,
+        "name": "KHAKHAS MILAN RAMDEBHAI",
+        "marks": {
+          "Engineering Chemistry": 11.0,
+          "CSE": 14.0,
+          "Mathematics -1": 7.0,
+          "ED&C": 20.0
+        }
+      },
+      {
+        "sr": 19,
+        "name": "MAKVANA MIHIR VINODBHAI",
+        "marks": {
+          "Engineering Chemistry": 8.0,
+          "CSE": 12.0,
+          "Mathematics -1": 7.0,
+          "ED&C": 14.0
+        }
+      },
+      {
+        "sr": 20,
+        "name": "MAKWANA MAULIK RAJESHBHAI",
+        "marks": {
+          "Engineering Chemistry": 2.0,
+          "CSE": null,
+          "Mathematics -1": "AB",
+          "ED&C": 4.0
+        }
+      },
+      {
+        "sr": 21,
+        "name": "MEVADA NEMISH KALUBHAI",
+        "marks": {
+          "Engineering Chemistry": 1.0,
+          "CSE": 9.0,
+          "Mathematics -1": 0.0,
+          "ED&C": "AB"
+        }
+      },
+      {
+        "sr": 22,
+        "name": "NIMAVAT PAVAN BALKRISHNABHAI",
+        "marks": {
+          "Engineering Chemistry": 15.0,
+          "CSE": 11.0,
+          "Mathematics -1": 7.0,
+          "ED&C": "AB"
+        }
+      },
+      {
+        "sr": 23,
+        "name": "PARMAR ALPESH BHANUBHAI",
+        "marks": {
+          "Engineering Chemistry": "AB",
+          "CSE": null,
+          "Mathematics -1": "AB",
+          "ED&C": "AB"
+        }
+      },
+      {
+        "sr": 24,
+        "name": "PARMAR GAUTAM RAMJIBHAI",
+        "marks": {
+          "Engineering Chemistry": "AB",
+          "CSE": null,
+          "Mathematics -1": "AB",
+          "ED&C": "AB"
+        }
+      },
+      {
+        "sr": 25,
+        "name": "POPAT ISHAN MANISHBHAI",
+        "marks": {
+          "Engineering Chemistry": 16.0,
+          "CSE": 12.0,
+          "Mathematics -1": 17.0,
+          "ED&C": 14.0
+        }
+      },
+      {
+        "sr": 26,
+        "name": "SAIYAD SUFIYA MAHMADBHAI",
+        "marks": {
+          "Engineering Chemistry": 10.0,
+          "CSE": 9.0,
+          "Mathematics -1": 19.0,
+          "ED&C": 17.0
+        }
+      },
+      {
+        "sr": 27,
+        "name": "SONDARVA KULDIP LALJIBHAI",
+        "marks": {
+          "Engineering Chemistry": "AB",
+          "CSE": null,
+          "Mathematics -1": 5.0,
+          "ED&C": 16.0
+        }
+      },
+      {
+        "sr": 28,
+        "name": "TANK AYAN RASHIDBHAI",
+        "marks": {
+          "Engineering Chemistry": 19.0,
+          "CSE": null,
+          "Mathematics -1": 8.0,
+          "ED&C": 5.0
+        }
+      },
+      {
+        "sr": 29,
+        "name": "TARPARA JEMINKUMAR JAYSUKHLAL",
+        "marks": {
+          "Engineering Chemistry": 2.0,
+          "CSE": 2.0,
+          "Mathematics -1": 3.0,
+          "ED&C": 11.0
+        }
+      },
+      {
+        "sr": 30,
+        "name": "THEBA FEZAN FATEHMAMAD",
+        "marks": {
+          "Engineering Chemistry": 8.0,
+          "CSE": "AB",
+          "Mathematics -1": 3.0,
+          "ED&C": 4.0
+        }
+      },
+      {
+        "sr": 31,
+        "name": "VADHER TEJAS PRAVINBHAI",
+        "marks": {
+          "Engineering Chemistry": 19.0,
+          "CSE": 0.0,
+          "Mathematics -1": 10.0,
+          "ED&C": 13.0
+        }
+      },
+      {
+        "sr": 32,
+        "name": "VAJA DARSHIT SHAILESHBHAI",
+        "marks": {
+          "Engineering Chemistry": 11.0,
+          "CSE": 1.0,
+          "Mathematics -1": 18.0,
+          "ED&C": 12.0
+        }
+      }
+    ]
+  },
+  "Mechanical Engineering": {
+    "subjects": [
+      {
+        "name": "Mathematics -1",
+        "code": "DI01000021",
+        "date": "08/07/2026"
+      },
+      {
+        "name": "EME",
+        "code": "DI01000191",
+        "date": "14/08/2026"
+      },
+      {
+        "name": "CSE",
+        "code": "DI01000031",
+        "date": "21/08/2026"
+      },
+      {
+        "name": "EG",
+        "code": "DI01000111",
+        "date": "14/09/2026"
+      },
+      {
+        "name": "Mathematics -1",
+        "code": "DI01000021",
+        "date": "19/09/2026"
+      }
+    ],
+    "students": [
+      {
+        "sr": 1,
+        "name": "APARANATHI SHIVAMGIRI NILESHGIRI",
+        "marks": {
+          "Mathematics -1": 0.0,
+          "EME": 15.0,
+          "CSE": 0.0,
+          "EG": null
+        }
+      },
+      {
+        "sr": 2,
+        "name": "APARNATHI JENISHGIRI VASUDEVGIRI",
+        "marks": {
+          "Mathematics -1": 17.0,
+          "EME": 11.0,
+          "CSE": 12.0,
+          "EG": 15.0
+        }
+      },
+      {
+        "sr": 3,
+        "name": "ASODARIYA MITESH BHIKHUBHAI",
+        "marks": {
+          "Mathematics -1": 5.0,
+          "EME": 3.0,
+          "CSE": null,
+          "EG": 7.0
+        }
+      },
+      {
+        "sr": 4,
+        "name": "BABARIYA MEET RAJESHBHAI",
+        "marks": {
+          "Mathematics -1": 20.0,
+          "EME": 19.0,
+          "CSE": 11.0,
+          "EG": 19.0
+        }
+      },
+      {
+        "sr": 5,
+        "name": "BABARIYA OM JITENDRABHAI",
+        "marks": {
+          "Mathematics -1": 7.0,
+          "EME": 10.0,
+          "CSE": 0.0,
+          "EG": 11.0
+        }
+      },
+      {
+        "sr": 6,
+        "name": "BAVALIYA DHAVALBHAI JAYESHBHAI",
+        "marks": {
+          "Mathematics -1": 8.0,
+          "EME": 12.0,
+          "CSE": null,
+          "EG": 12.0
+        }
+      },
+      {
+        "sr": 7,
+        "name": "BELIM AHEMAD RIZVANBHAI",
+        "marks": {
+          "Mathematics -1": 19.0,
+          "EME": 16.0,
+          "CSE": 17.0,
+          "EG": 16.0
+        }
+      },
+      {
+        "sr": 8,
+        "name": "BHANGADIYA HARSH DIPAKBHAI",
+        "marks": {
+          "Mathematics -1": 20.0,
+          "EME": "AB",
+          "CSE": 16.0,
+          "EG": 16.0
+        }
+      },
+      {
+        "sr": 9,
+        "name": "CHANDVANIYA SNEH PARESHKUMAR",
+        "marks": {
+          "Mathematics -1": 17.0,
+          "EME": 16.0,
+          "CSE": 6.0,
+          "EG": 18.0
+        }
+      },
+      {
+        "sr": 10,
+        "name": "CHAVDA VANSH BIPINCHANDRA",
+        "marks": {
+          "Mathematics -1": 2.0,
+          "EME": 6.0,
+          "CSE": 3.0,
+          "EG": 6.0
+        }
+      },
+      {
+        "sr": 11,
+        "name": "CHUDASAMA RAJ NARENDRABHAI",
+        "marks": {
+          "Mathematics -1": 1.0,
+          "EME": 13.0,
+          "CSE": 10.0,
+          "EG": 8.0
+        }
+      },
+      {
+        "sr": 12,
+        "name": "DEVALIYA DUSHYANT HITESHBHAI",
+        "marks": {
+          "Mathematics -1": 0.0,
+          "EME": 10.0,
+          "CSE": null,
+          "EG": null
+        }
+      },
+      {
+        "sr": 13,
+        "name": "DHADUK FENIL RAMNIKBHAI",
+        "marks": {
+          "Mathematics -1": 6.0,
+          "EME": 13.0,
+          "CSE": null,
+          "EG": 9.0
+        }
+      },
+      {
+        "sr": 14,
+        "name": "GADHIYA CHAND ROHITBHAI",
+        "marks": {
+          "Mathematics -1": 0.0,
+          "EME": 3.0,
+          "CSE": 0.0,
+          "EG": 11.0
+        }
+      },
+      {
+        "sr": 15,
+        "name": "GANGDEV MEET NARENDRABHAI",
+        "marks": {
+          "Mathematics -1": 1.0,
+          "EME": "AB",
+          "CSE": null,
+          "EG": 8.0
+        }
+      },
+      {
+        "sr": 16,
+        "name": "GARALA SHREY NIMESHBHAI",
+        "marks": {
+          "Mathematics -1": 5.0,
+          "EME": 11.0,
+          "CSE": 0.0,
+          "EG": 9.0
+        }
+      },
+      {
+        "sr": 17,
+        "name": "GOHEL PRINCE PRATAPBHAI",
+        "marks": {
+          "Mathematics -1": 16.0,
+          "EME": 18.0,
+          "CSE": 7.0,
+          "EG": 17.0
+        }
+      },
+      {
+        "sr": 18,
+        "name": "GOSAI KEVALKUMAR PANKAJPURI",
+        "marks": {
+          "Mathematics -1": 20.0,
+          "EME": "AB",
+          "CSE": 17.0,
+          "EG": 19.0
+        }
+      },
+      {
+        "sr": 19,
+        "name": "GOSWAMI KULDEEPPARI RAMPARI",
+        "marks": {
+          "Mathematics -1": "AB",
+          "EME": 7.0,
+          "CSE": null,
+          "EG": 11.0
+        }
+      },
+      {
+        "sr": 20,
+        "name": "GOSWAMI RAJDEEPPARI SURESHPARI",
+        "marks": {
+          "Mathematics -1": "AB",
+          "EME": 3.0,
+          "CSE": null,
+          "EG": 7.0
+        }
+      },
+      {
+        "sr": 21,
+        "name": "HIRAPARA JEEL SUBHASHBHAI",
+        "marks": {
+          "Mathematics -1": 1.0,
+          "EME": 8.0,
+          "CSE": null,
+          "EG": 15.0
+        }
+      },
+      {
+        "sr": 22,
+        "name": "KACHHADIYA RUSHIL VIPULBHAI",
+        "marks": {
+          "Mathematics -1": 19.0,
+          "EME": 14.0,
+          "CSE": 9.0,
+          "EG": 19.0
+        }
+      },
+      {
+        "sr": 23,
+        "name": "KANDOLIYA KHUSHAL LALJIBHAI",
+        "marks": {
+          "Mathematics -1": 19.0,
+          "EME": 15.0,
+          "CSE": 5.0,
+          "EG": 18.0
+        }
+      },
+      {
+        "sr": 24,
+        "name": "KANSAGARA KASHYAP NARENDRAKUMAR",
+        "marks": {
+          "Mathematics -1": 10.0,
+          "EME": 16.0,
+          "CSE": 14.0,
+          "EG": 19.0
+        }
+      },
+      {
+        "sr": 25,
+        "name": "KANTARIYA SANJAY LAKHAMANBHAI",
+        "marks": {
+          "Mathematics -1": 2.0,
+          "EME": 1.0,
+          "CSE": null,
+          "EG": 8.0
+        }
+      },
+      {
+        "sr": 26,
+        "name": "MARADIYA BHARGAV DIVYESHKUMAR",
+        "marks": {
+          "Mathematics -1": "AB",
+          "EME": "AB",
+          "CSE": null,
+          "EG": null
+        }
+      },
+      {
+        "sr": 27,
+        "name": "MODHA MAHIR MITHUNBHAI",
+        "marks": {
+          "Mathematics -1": 4.0,
+          "EME": 16.0,
+          "CSE": null,
+          "EG": 5.0
+        }
+      },
+      {
+        "sr": 28,
+        "name": "NAKUM KARAN PARSOTAMBHAI",
+        "marks": {
+          "Mathematics -1": "AB",
+          "EME": "AB",
+          "CSE": null,
+          "EG": null
+        }
+      },
+      {
+        "sr": 29,
+        "name": "NASIT SHYAM ASHVINBHAI",
+        "marks": {
+          "Mathematics -1": 4.0,
+          "EME": 17.0,
+          "CSE": 4.0,
+          "EG": null
+        }
+      },
+      {
+        "sr": 30,
+        "name": "NIMAVAT DHAIVAT MAHESHBHAI",
+        "marks": {
+          "Mathematics -1": 10.0,
+          "EME": 14.0,
+          "CSE": 13.0,
+          "EG": 14.0
+        }
+      },
+      {
+        "sr": 31,
+        "name": "PARMAR AARYAN PRAKASHBHAI",
+        "marks": {
+          "Mathematics -1": 2.0,
+          "EME": "AB",
+          "CSE": 0.0,
+          "EG": null
+        }
+      },
+      {
+        "sr": 32,
+        "name": "PARMAR ARYAN HITESHBHAI",
+        "marks": {
+          "Mathematics -1": 0.0,
+          "EME": 1.0,
+          "CSE": null,
+          "EG": null
+        }
+      },
+      {
+        "sr": 33,
+        "name": "RAM DHRUVKUMAR BABUBHAI",
+        "marks": {
+          "Mathematics -1": 0.0,
+          "EME": 8.0,
+          "CSE": null,
+          "EG": 9.0
+        }
+      },
+      {
+        "sr": 34,
+        "name": "RATHOD NAYAN RASHIKBHAI",
+        "marks": {
+          "Mathematics -1": 10.0,
+          "EME": 17.0,
+          "CSE": 4.0,
+          "EG": 19.0
+        }
+      },
+      {
+        "sr": 35,
+        "name": "SANGHANI DEV BHIMABHAI",
+        "marks": {
+          "Mathematics -1": 9.0,
+          "EME": 7.0,
+          "CSE": null,
+          "EG": null
+        }
+      },
+      {
+        "sr": 36,
+        "name": "SAVALIYA JEEL NITESHBHAI",
+        "marks": {
+          "Mathematics -1": 8.0,
+          "EME": 18.0,
+          "CSE": null,
+          "EG": 18.0
+        }
+      },
+      {
+        "sr": 37,
+        "name": "THAPALIYA VASU OGHABHAI",
+        "marks": {
+          "Mathematics -1": "AB",
+          "EME": "AB",
+          "CSE": null,
+          "EG": null
+        }
+      },
+      {
+        "sr": 38,
+        "name": "TOPIYA HEET NILESHBHAI",
+        "marks": {
+          "Mathematics -1": 2.0,
+          "EME": "AB",
+          "CSE": null,
+          "EG": 9.0
+        }
+      },
+      {
+        "sr": 39,
+        "name": "VADUKAR RUTVIK BABUBHAI",
+        "marks": {
+          "Mathematics -1": 5.0,
+          "EME": 16.0,
+          "CSE": 8.0,
+          "EG": 15.0
+        }
+      },
+      {
+        "sr": 40,
+        "name": "VEKARIYA DHYEY MANOJBHAI",
+        "marks": {
+          "Mathematics -1": 7.0,
+          "EME": 15.0,
+          "CSE": 10.0,
+          "EG": 19.0
+        }
+      },
+      {
+        "sr": 41,
+        "name": "VORA TEJ ANILBHAI",
+        "marks": {
+          "Mathematics -1": 4.0,
+          "EME": 15.0,
+          "CSE": 0.0,
+          "EG": 13.0
+        }
+      },
+      {
+        "sr": 42,
+        "name": "CHAVDA SUJAL RAJESHBHAI",
+        "marks": {
+          "Mathematics -1": 3.0,
+          "EME": null,
+          "CSE": null,
+          "EG": 5.0
+        }
+      },
+      {
+        "sr": 43,
+        "name": "RAYJADA MEETRAJSINH H.",
+        "marks": {
+          "Mathematics -1": 1.0,
+          "EME": null,
+          "CSE": null,
+          "EG": 3.0
+        }
+      },
+      {
+        "sr": 44,
+        "name": "ZALA AYUSH K.",
+        "marks": {
+          "Mathematics -1": 14.0,
+          "EME": null,
+          "CSE": null,
+          "EG": 12.0
+        }
+      }
+    ]
+  },
+  "Computer Engineering": {
+    "subjects": [
+      {
+        "name": "CSE (Communication Skills in English)",
+        "code": "DI01000031",
+        "date": "08/07/2026"
+      },
+      {
+        "name": "Mathematics -1",
+        "code": "DI01000021",
+        "date": "29/08/2026"
+      },
+      {
+        "name": "BOE",
+        "code": "Subject code",
+        "date": "14/09/2026"
+      }
+    ],
+    "students": [
+      {
+        "sr": 1,
+        "name": "AGVAN ZOHAN MOIZBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 10.0,
+          "Mathematics -1": 10,
+          "BOE": null
+        }
+      },
+      {
+        "sr": 2,
+        "name": "AHUJA BHARGAVI DINESHKUMAR",
+        "marks": {
+          "CSE (Communication Skills in English)": 17.0,
+          "Mathematics -1": 17,
+          "BOE": 20.0
+        }
+      },
+      {
+        "sr": 3,
+        "name": "ASODIYA DAX SHAILESHBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 13.0,
+          "Mathematics -1": 13,
+          "BOE": 14.0
+        }
+      },
+      {
+        "sr": 4,
+        "name": "BASIYA DHARMRAJ BHARATBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 5.0,
+          "Mathematics -1": 5,
+          "BOE": 1.0
+        }
+      },
+      {
+        "sr": 5,
+        "name": "BHAYANI DRASHTI VINODBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 4.0,
+          "Mathematics -1": 4,
+          "BOE": 9.0
+        }
+      },
+      {
+        "sr": 6,
+        "name": "BORICHA URVASHIBEN RAMJIBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 2.0,
+          "Mathematics -1": 2,
+          "BOE": 1.0
+        }
+      },
+      {
+        "sr": 7,
+        "name": "CHANDARANA DARSHKUMAR YOGESHKUMAR",
+        "marks": {
+          "CSE (Communication Skills in English)": 11.0,
+          "Mathematics -1": 11,
+          "BOE": 10.0
+        }
+      },
+      {
+        "sr": 8,
+        "name": "CHAVDA BHUMIRAJSINH BHARATSINH",
+        "marks": {
+          "CSE (Communication Skills in English)": 7.0,
+          "Mathematics -1": 7,
+          "BOE": 4.0
+        }
+      },
+      {
+        "sr": 9,
+        "name": "CHHANTPAL VAISHALI RAJKUMAR",
+        "marks": {
+          "CSE (Communication Skills in English)": 14.0,
+          "Mathematics -1": 14,
+          "BOE": 17.0
+        }
+      },
+      {
+        "sr": 10,
+        "name": "CHOTHANI KARTIK MEHULBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 16.0,
+          "Mathematics -1": 16,
+          "BOE": 20.0
+        }
+      },
+      {
+        "sr": 11,
+        "name": "CHOTIYARA TANVIR AMIN",
+        "marks": {
+          "CSE (Communication Skills in English)": "AB",
+          "Mathematics -1": "AB",
+          "BOE": null
+        }
+      },
+      {
+        "sr": 12,
+        "name": "DABHI PRINCE SAILESHBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 14.0,
+          "Mathematics -1": 14,
+          "BOE": 15.0
+        }
+      },
+      {
+        "sr": 13,
+        "name": "DABHI RIYA MAHESHBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 13.0,
+          "Mathematics -1": 13,
+          "BOE": 20.0
+        }
+      },
+      {
+        "sr": 14,
+        "name": "DHAMECHA JASH SANJAYBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 8.0,
+          "Mathematics -1": 8,
+          "BOE": 12.0
+        }
+      },
+      {
+        "sr": 15,
+        "name": "DHAMECHA MAHEK DIPAKBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 3.0,
+          "Mathematics -1": 3,
+          "BOE": 13.0
+        }
+      },
+      {
+        "sr": 16,
+        "name": "DHOLAKIYA SHLOK PARAGBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 17.0,
+          "Mathematics -1": 17,
+          "BOE": 6.0
+        }
+      },
+      {
+        "sr": 17,
+        "name": "DUDHREJIYA MAULIK KETANBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 10.0,
+          "Mathematics -1": 10,
+          "BOE": 11.0
+        }
+      },
+      {
+        "sr": 18,
+        "name": "GAREJA KHUSHAL GANGA",
+        "marks": {
+          "CSE (Communication Skills in English)": 9.0,
+          "Mathematics -1": 9,
+          "BOE": null
+        }
+      },
+      {
+        "sr": 19,
+        "name": "GHODASARA HASTI RATILAL",
+        "marks": {
+          "CSE (Communication Skills in English)": 3.0,
+          "Mathematics -1": 3,
+          "BOE": 11.0
+        }
+      },
+      {
+        "sr": 20,
+        "name": "GOHEL KARTIK RAGHAVBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 1.0,
+          "Mathematics -1": 1,
+          "BOE": 9.0
+        }
+      },
+      {
+        "sr": 21,
+        "name": "GOLTAR HIREN HITESHBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 5.0,
+          "Mathematics -1": 5,
+          "BOE": 11.0
+        }
+      },
+      {
+        "sr": 22,
+        "name": "JADAV KHUSHIBEN DILIPBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 17.0,
+          "Mathematics -1": 17,
+          "BOE": 15.0
+        }
+      },
+      {
+        "sr": 23,
+        "name": "KADAVALA REENA JAGDISHBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": "AB",
+          "Mathematics -1": "AB",
+          "BOE": 18.0
+        }
+      },
+      {
+        "sr": 24,
+        "name": "KALANI KUNJ HIRENBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 6.0,
+          "Mathematics -1": 6,
+          "BOE": 15.0
+        }
+      },
+      {
+        "sr": 25,
+        "name": "KANDORIYA REENA JAGUBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 0.0,
+          "Mathematics -1": 0,
+          "BOE": 3.0
+        }
+      },
+      {
+        "sr": 26,
+        "name": "KHIMORIYA AVANIKUMARI BHUPATBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 0.0,
+          "Mathematics -1": 0,
+          "BOE": null
+        }
+      },
+      {
+        "sr": 27,
+        "name": "KHUNT VED RAJESHBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 12.0,
+          "Mathematics -1": 12,
+          "BOE": 19.0
+        }
+      },
+      {
+        "sr": 28,
+        "name": "KODAVALA PREET HARESHBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 16.0,
+          "Mathematics -1": 16,
+          "BOE": 15.0
+        }
+      },
+      {
+        "sr": 29,
+        "name": "KOREJA ISHRAT NURMAMAD",
+        "marks": {
+          "CSE (Communication Skills in English)": 7.0,
+          "Mathematics -1": 7,
+          "BOE": 16.0
+        }
+      },
+      {
+        "sr": 30,
+        "name": "KUMBHANI DHRUV PANKAJBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": null,
+          "Mathematics -1": 0,
+          "BOE": null
+        }
+      },
+      {
+        "sr": 31,
+        "name": "KUMBHANI VRUTI RAKESHBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 12.0,
+          "Mathematics -1": 12,
+          "BOE": 7.0
+        }
+      },
+      {
+        "sr": 32,
+        "name": "LODHIYA EKLAVYA NILESH",
+        "marks": {
+          "CSE (Communication Skills in English)": 9.0,
+          "Mathematics -1": 9,
+          "BOE": 1.0
+        }
+      },
+      {
+        "sr": 33,
+        "name": "LUNAGARIYA MANTHAN RASIKBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 3.0,
+          "Mathematics -1": 3,
+          "BOE": 3.0
+        }
+      },
+      {
+        "sr": 34,
+        "name": "MANDAL RAJDIP RANJITBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 2.0,
+          "Mathematics -1": 2,
+          "BOE": 4.0
+        }
+      },
+      {
+        "sr": 35,
+        "name": "MANSUKHANI HARSH ASHOKBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 9.0,
+          "Mathematics -1": 9,
+          "BOE": 10.0
+        }
+      },
+      {
+        "sr": 36,
+        "name": "MEHTA BHAVYA BIREN",
+        "marks": {
+          "CSE (Communication Skills in English)": 16.0,
+          "Mathematics -1": 16,
+          "BOE": 15.0
+        }
+      },
+      {
+        "sr": 37,
+        "name": "MEHTA BHAVYARAJ HITESHBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 12.0,
+          "Mathematics -1": 12,
+          "BOE": 4.0
+        }
+      },
+      {
+        "sr": 38,
+        "name": "MORABIYA DIVYESH RAJESHBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 4.0,
+          "Mathematics -1": 4,
+          "BOE": 12.0
+        }
+      },
+      {
+        "sr": 39,
+        "name": "NIRMAL TANISH KARTIKBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 3.0,
+          "Mathematics -1": 3,
+          "BOE": null
+        }
+      },
+      {
+        "sr": 40,
+        "name": "ODEDARA HITEN DINESHBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 9.0,
+          "Mathematics -1": 9,
+          "BOE": null
+        }
+      },
+      {
+        "sr": 41,
+        "name": "OGHAD SUSHIL SARJUBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 0.0,
+          "Mathematics -1": 0,
+          "BOE": null
+        }
+      },
+      {
+        "sr": 42,
+        "name": "PARMAR ANANDI HARSHUKHBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": "AB",
+          "Mathematics -1": "AB",
+          "BOE": null
+        }
+      },
+      {
+        "sr": 43,
+        "name": "PATEL ISMAIL IMTIYAZ",
+        "marks": {
+          "CSE (Communication Skills in English)": "AB",
+          "Mathematics -1": "AB",
+          "BOE": null
+        }
+      },
+      {
+        "sr": 44,
+        "name": "PATEL MOHAMMED DAWOODBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 11.0,
+          "Mathematics -1": 11,
+          "BOE": null
+        }
+      },
+      {
+        "sr": 45,
+        "name": "SHEKH MADNI FARUKBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 18.0,
+          "Mathematics -1": 18,
+          "BOE": null
+        }
+      },
+      {
+        "sr": 46,
+        "name": "SHILU VIRAJ JITENDRABHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 0.0,
+          "Mathematics -1": 0,
+          "BOE": 0.0
+        }
+      },
+      {
+        "sr": 47,
+        "name": "SIROYA HARRY SANJAYKUMAR",
+        "marks": {
+          "CSE (Communication Skills in English)": 7.0,
+          "Mathematics -1": 7,
+          "BOE": null
+        }
+      },
+      {
+        "sr": 48,
+        "name": "SOJITRA RUCHIT KISHORBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 10.0,
+          "Mathematics -1": 10,
+          "BOE": null
+        }
+      },
+      {
+        "sr": 49,
+        "name": "SOLANKI DIPAK BHAVESHBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 10.0,
+          "Mathematics -1": 10,
+          "BOE": null
+        }
+      },
+      {
+        "sr": 50,
+        "name": "SOLANKI KHUSHALI BHAGVANJIBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 5.0,
+          "Mathematics -1": 5,
+          "BOE": 12.0
+        }
+      },
+      {
+        "sr": 51,
+        "name": "VAGH NEEL BHUPAT",
+        "marks": {
+          "CSE (Communication Skills in English)": 13.0,
+          "Mathematics -1": 13,
+          "BOE": null
+        }
+      },
+      {
+        "sr": 52,
+        "name": "VAGHASIYA JYOT ASHVINKUMAR",
+        "marks": {
+          "CSE (Communication Skills in English)": 13.0,
+          "Mathematics -1": 13,
+          "BOE": 11.0
+        }
+      },
+      {
+        "sr": 53,
+        "name": "VAGHELA RUDRAX SATISHBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 0.0,
+          "Mathematics -1": 0,
+          "BOE": 6.0
+        }
+      },
+      {
+        "sr": 54,
+        "name": "VAGHELA URVASHI UDAYBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 6.0,
+          "Mathematics -1": 6,
+          "BOE": null
+        }
+      },
+      {
+        "sr": 55,
+        "name": "VASAN KARAN VINODBHAI",
+        "marks": {
+          "CSE (Communication Skills in English)": 2.0,
+          "Mathematics -1": 2,
+          "BOE": null
+        }
+      },
+      {
+        "sr": 56,
+        "name": "VISHWAKARMA SATYAM SUNIL",
+        "marks": {
+          "CSE (Communication Skills in English)": 1.0,
+          "Mathematics -1": 1,
+          "BOE": null
+        }
+      },
+      {
+        "sr": 57,
+        "name": "KAZI RIHAN",
+        "marks": {
+          "CSE (Communication Skills in English)": null,
+          "Mathematics -1": 0,
+          "BOE": 7.0
+        }
+      }
+    ]
+  }
+}
